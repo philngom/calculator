@@ -1,14 +1,32 @@
 /* add home page styles here */
 #app {
   display: flex;
-  margin-top: 20px;
+  /* margin-top: 20px; */
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
 }
 
 input {
-  margin: 0 5px;
+  margin: 0 10px;
+  width: 200px;
+  height: 50%;
+  font-size: 100px;
+  text-align: center;
 }
 
 .answer {
   margin-left: 5px;
+  font-size: 100px;
+}
+
+select {
+  height: 50%;
+  font-size: 100px;
+}
+
+#equals {
+  height: 50%;
+  width: 40px;
 }
 
