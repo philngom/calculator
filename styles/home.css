@@ -1,1 +1,14 @@
 /* add home page styles here */
+#app {
+  display: flex;
+  margin-top: 20px;
+}
+
+input {
+  margin: 0 5px;
+}
+
+.answer {
+  margin-left: 5px;
+}
+
